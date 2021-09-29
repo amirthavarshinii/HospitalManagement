@@ -1,4 +1,4 @@
-package com.company.varnaa;
+package com.company.varshini;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

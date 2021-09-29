@@ -1,4 +1,4 @@
-package com.company.varnaa;
+package com.company.varshini;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

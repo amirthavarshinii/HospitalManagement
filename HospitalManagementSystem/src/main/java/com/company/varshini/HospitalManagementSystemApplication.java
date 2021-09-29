@@ -1,4 +1,4 @@
-package com.company.varnaa;
+package com.company.varshini;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.company.varnaa;
+package com.company.varshini;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
